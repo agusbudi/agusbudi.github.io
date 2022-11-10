@@ -11413,6 +11413,8 @@ section.resume-section {
   padding-left: 1rem;
   padding-right: 1rem;
   padding-top: 5rem;
+  background-color: #e6e6e6;
+  /*#DEEBF7;*/
   padding-bottom: 5rem;
   max-width: 75rem;
 }
